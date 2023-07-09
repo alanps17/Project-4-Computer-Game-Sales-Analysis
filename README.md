@@ -29,3 +29,11 @@ Critic_Score — оценка критиков (максимум 100)
 User_Score — оценка пользователей (максимум 10)
 
 Rating — рейтинг от организации ESRB (Entertainment Software Rating Board)
+
+**Как запустить проект**
+
+Установите Jupyter Notebook или Jupyter Lab.
+
+Откройте файл с проектом в Jupyter.
+
+Запустите все ячейки по порядку.
